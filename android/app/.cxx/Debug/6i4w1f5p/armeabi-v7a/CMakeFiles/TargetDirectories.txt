@@ -1,0 +1,2 @@
+/Users/youssef/Downloads/Todo-flutter-main/android/app/.cxx/Debug/6i4w1f5p/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/youssef/Downloads/Todo-flutter-main/android/app/.cxx/Debug/6i4w1f5p/armeabi-v7a/CMakeFiles/rebuild_cache.dir
