@@ -8,6 +8,8 @@ TODO App is a task management application with a modern and unique design. It is
 for full video 
 https://www.linkedin.com/posts/youssef-mohamed-645646205_flutter-dart-mobiledevelopment-activity-7353924086827302914-5RQd?utm_source=share&utm_medium=member_desktop&rcm=ACoAADQ-CBUBFjRK-M7EPQhDJ4tjXS4B5xP9El8
 
+<img width="851" height="932" alt="Screenshot 2025-07-23 at 4 12 48 PM" src="https://github.com/user-attachments/assets/dba7cae8-9c13-44e5-9b7f-2b56ab11c5f4" />
+
 
 ## dependencies
 ```
