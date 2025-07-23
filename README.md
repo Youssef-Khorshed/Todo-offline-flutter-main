@@ -5,7 +5,8 @@
 TODO App is a task management application with a modern and unique design. It is easy to use and was built using FLUTTER. It is based on a local SQFlite database & Login Using Shared Preferences .
 
 
-
+for full video 
+https://www.linkedin.com/posts/youssef-mohamed-645646205_flutter-dart-mobiledevelopment-activity-7353924086827302914-5RQd?utm_source=share&utm_medium=member_desktop&rcm=ACoAADQ-CBUBFjRK-M7EPQhDJ4tjXS4B5xP9El8
 
 
 ## dependencies
